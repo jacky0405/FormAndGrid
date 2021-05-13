@@ -1,0 +1,26 @@
+.RMFormTitle {
+    background-color: #94BBF2;
+    padding: 5px;
+}
+
+.RMTbar {
+    background-color:#CCDBE7; 
+    padding: 5px;
+    height:32px;
+}
+
+.RMFormLabel {
+    float: left;
+    padding-top: 11px;
+}
+
+.RMFormController {
+    padding-bottom: 5px;
+}
+
+.RMOptions {
+    border: solid 1px #c4c4c4;
+    border-radius: 4px;
+    padding: 4px;
+    padding-left: 10px;
+}
