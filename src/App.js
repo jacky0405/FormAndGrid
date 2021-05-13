@@ -262,9 +262,6 @@ function App() {
           disabled={saveState}
           onClick={() => handleFormSaveClick(formData)}
         />
-        <RMButton
-          id="newWindowBtn"
-          text="開視窗"/>
       </RMTbar>
       <RMForm
         field={FormField}
